@@ -6,4 +6,5 @@ const word = new Word('#app', {
   components: [Header, Toolbar]
 });
 
+
 word.render()
