@@ -1,0 +1,17 @@
+{
+  "name": "word",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint ./src"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^7.0.0",
+    "eslint-config-google": "^0.14.0"
+  },
+ 
+  "author": "",
+  "license": "ISC"
+}
